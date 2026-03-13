@@ -1,7 +1,4 @@
-Absolutely—here’s a **comprehensive “Usage Tutorial”** section you can drop directly into your `README.md`.  
-It’s self‑contained and assumes a fresh clone/venv, then walks through COH basics, simulation, RL training, visualization, and best‑practices.
 
-***
 
 ## 🧪 Usage Tutorial
 
