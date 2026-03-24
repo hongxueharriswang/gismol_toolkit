@@ -29,7 +29,7 @@ world.methods['left'] = move(-1, 0)
 world.methods['right'] = move(1, 0)
 world.methods['wait'] = lambda s: (s, -1.0)
 
-# (Optional) simple Q‑network to align with your design
+# simple Q‑network to align with your design
 class QNet(nn.Module):
     def __init__(self):
         super().__init__()
