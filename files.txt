@@ -1,0 +1,62 @@
+.
+├── CONTRIBUTING.md
+├── docs
+│   ├── Get-started.md
+│   ├── gismol-user-guide.md
+│   └── Tutorial.md
+├── examples
+│   ├── bdap_coding.py
+│   ├── dgps_coding.py
+│   ├── dsps_coding.py
+│   ├── fds_coding.py
+│   ├── gridworld_gui.py
+│   ├── gridworld_gui_v1.py
+│   ├── gridworld_gui_v2.py
+│   ├── gridworld_gui_v3.py
+│   ├── gridworld.py
+│   └── re_coding.py
+├── files.txt
+├── gismol
+│   ├── gismol
+│   │   ├── category.py
+│   │   ├── constraints.py
+│   │   ├── core.py
+│   │   ├── __init__.py
+│   │   ├── learning.py
+│   │   ├── __pycache__
+│   │   │   ├── category.cpython-312.pyc
+│   │   │   ├── constraints.cpython-312.pyc
+│   │   │   ├── core.cpython-312.pyc
+│   │   │   ├── __init__.cpython-312.pyc
+│   │   │   ├── learning.cpython-312.pyc
+│   │   │   ├── simulation.cpython-312.pyc
+│   │   │   └── utils.cpython-312.pyc
+│   │   ├── simulation.py
+│   │   ├── utils.py
+│   │   └── visualization.py
+│   ├── gismol.egg-info
+│   │   ├── dependency_links.txt
+│   │   ├── PKG-INFO
+│   │   ├── requires.txt
+│   │   ├── SOURCES.txt
+│   │   └── top_level.txt
+│   ├── gridworld.gif
+│   ├── gridworld.mp4
+│   ├── __init__.py
+│   └── tests
+│       └── test_core.py
+├── gismol.egg-info
+│   ├── dependency_links.txt
+│   ├── PKG-INFO
+│   ├── requires.txt
+│   ├── SOURCES.txt
+│   └── top_level.txt
+├── LICENSE
+├── README.md
+├── requirements.txt
+├── setup.py
+└── supplementary
+    ├── appendix-A-theorems-proofs.pdf
+    └── appendix-B-implementation-guidelines.pdf
+
+10 directories, 50 files

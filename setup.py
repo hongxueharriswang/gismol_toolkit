@@ -7,7 +7,7 @@ setup(
     description='General Intelligent Systems Modelling Language (COH 9‑tuple implementation)',
     author='Harris Wang',
     author_email='harrisw@athabascau.ca',
-    url='https://github.com/harriswang/gismol',
+    url='https://github.com/hongxueharriswang/gismol_toolkit',
     packages=find_packages(),
     install_requires=[
         'numpy>=1.20',
